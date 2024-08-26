@@ -1,3 +1,8 @@
+In this project react using vite is used to build a password generator which generates a random password which have a length of 8 to 50 user can also add numbers and special characters in it using check boxes.
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
